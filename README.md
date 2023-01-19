@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Andres and I'm currently a student at the California State University of Northridge pursuing a computer science degree. I aim to be a software engineer in the future with me currently having a 3+ years of experience with an internship and many side projects. I'm currently interested and focusing on web developement, but I am also open minded to trying different things out in the field. If you want to reach me check out my linked in!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knishmas)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Knishmas/Knishmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
