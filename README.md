@@ -1,5 +1,8 @@
+![Banner](https://user-images.githubusercontent.com/67484551/213372444-80fca6db-3c94-4dc4-94fc-00a4df7a909a.gif)
 <h1 align="center">✨ Hello Friend, I'm  Andres ✨</h1>
 <h3 align="center">I am a student at California State University, Northridge, where I am studying computer science. My goal is to become a software engineer in the future. I already have more than 3 years of experience, including an internship and several side projects. My current focus is on web development, but I am also open to exploring other areas within the field. If you would like to contact me, please check out my LinkedIn profile or feel free to email!</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+
 
 - 🔭 I’m currently working on a [Spotify API Project](https://github.com/Knishmas/Spotify_API_v2)
 
