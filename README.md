@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hello Friend, I'm  Andres ✨</h1>
-<h3 align="center">I'm currently a student at the California State University of Northridge pursuing a computer science degree. I aim to be a software engineer in the future, currently having a 3+ years of experience with an internship, and many side projects. I'm currently interested and focusing on web developement, but I am also open minded to trying different things out in the field. If you want to reach me check out my linked in or email me!</h3>
+<h3 align="center">I am a student at California State University, Northridge, where I am studying computer science. My goal is to become a software engineer in the future. I already have more than 3 years of experience, including an internship and several side projects. My current focus is on web development, but I am also open to exploring other areas within the field. If you would like to contact me, please check out my LinkedIn profile or feel free to email!</h3>
 
 - 🔭 I’m currently working on a [Spotify API Project](https://github.com/Knishmas/Spotify_API_v2)
 
