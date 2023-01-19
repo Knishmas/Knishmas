@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W1mQArm27INTyH_xi7NCX0TH7lqIvTtP/view?usp=sharing](https://drive.google.com/file/d/1W1mQArm27INTyH_xi7NCX0TH7lqIvTtP/view?usp=sharing)
 
-- ⚡ Fun fact **My original MongoDB is banned 🙃**
+- ⚡ Fun fact **My original MongoDB account is banned 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
