@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **AndresEM1524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W1mQArm27INTyH_xi7NCX0TH7lqIvTtP/view?usp=sharing](https://drive.google.com/file/d/1W1mQArm27INTyH_xi7NCX0TH7lqIvTtP/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/mr2yrnj8](https://tinyurl.com/mr2yrnj8)
 
 - ⚡ Fun fact **My original MongoDB account is banned 🙃**
 
