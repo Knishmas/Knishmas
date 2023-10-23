@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
-- 🔭 I’m currently working on my project [Snippet box](https://github.com/Knishmas/Spotify_API_v2)
+- 🔭 I’m currently working on my project [Snippet box](https://github.com/Knishmas/snippetbox)
 
 - 🌱 I’m currently learning **👨‍💻 Go lang, for backend web dev**
 
