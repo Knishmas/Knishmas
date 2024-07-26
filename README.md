@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/67484551/213372444-80fca6db-3c94-4dc4-94fc-00a4df7a909a.gif)
 <h1 align="center">✨ Hello Friend, I'm  Andres ✨</h1>
-<h3 align="center">I am a new graduate from the California State University, Northridge, where I earned by bachelors degree in computer science! My current focus is on web development, but I'm also interested in exploring other areas within the field. Feel free to check out some of my projects if they interest you :) </h3>
+<h3 align="center"> I enjoy working on web projects with anything from the front-end to the back. Feel free to checkout my projects :) </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
